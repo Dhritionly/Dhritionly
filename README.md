@@ -40,7 +40,7 @@
   •  Optimized raw dataset processing  using Excel formulas  and SQL functions,  reducing errors by 95%  and  improving  data processing speed by 40%.\
  •  Developed interactive dashboards  with MS Excel (Pie  Charts, Bar Charts, Scatter Plots), enabling stakeholder's data  -driven decisions 30% faster .\ 
  •  Implemented advanced data validation techniques  , ensuring  95% accuracy  in reports and reducing inconsistencies  by  80%.\
- Link - IMDB , Hiring , Opertaional
+ Link - [IMDB](https://github.com/Dhritionly/Trainity_Projects/tree/main/IMDB%20Movie%20Analysis) , Hiring , Opertaional
 
 ## Certifaications:
 
