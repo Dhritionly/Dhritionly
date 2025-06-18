@@ -44,7 +44,7 @@
 
 ## Certifaications:
 
-###  PW Skills Full Stack Data Science Pro : [LINK](https://pwskills.com/learn/certificate/18694401-3a57-4d26-9a03-836413f2ee2f/)
+###  PW Skills Full Stack Data Science Pro : [Link](https://pwskills.com/learn/certificate/18694401-3a57-4d26-9a03-836413f2ee2f/)
 Comprehensive training in Python, SQL, NumPy, Pandas, Matplotlib, Seaborn and Power BI, focusing on Data Analysis, Data Modelling, and Presentation Skills 
 
 
@@ -59,7 +59,7 @@ Completed Live projects on Data Analysis using Python, SQL, Excel, Power BI
 ![Screenshot 2025-05-11 020310](https://github.com/user-attachments/assets/b84652d9-9d9b-409e-80e1-5522311db893)
 
 
-###  GenAI	Powered	Data	Analytics	Job	Simulation
+###  GenAI	Powered	Data	Analytics	Job	Simulation [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_GNp2tgAC55iuDX366_1749984738391_completion_certificate.pdf)
 
 * Completed a job simulation involving AI-powered data analytics and strategy development for the Financial Services team at Tata iQ.
 * Conducted exploratory data analysis (EDA) using GenAI tools to assess data quality, identify risk indicators, and structure insights for predictive modeling.
