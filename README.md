@@ -6,6 +6,7 @@
 ### My Resume - [Link](https://github.com/Dhritionly/Curriculum_vitae/blob/main/DD_CV_25.pdf)
 ### LinkedIn - [Link](https://www.linkedin.com/in/dhritimalya-dutta-855141225/)
 
+
 ## Projects
 ### PowerBi and SQl Project:
 ### Atliq Hardware Sales Dataset: Youtube - [Link](https://youtu.be/GlVQtEexktI?si=rtYSIe105Dc8yb-B)
