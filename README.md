@@ -44,7 +44,7 @@
 
 ## Certifaications:
 
-###  PW Skills Full Stack Data Science Pro :
+###  PW Skills Full Stack Data Science Pro : [LINK](https://pwskills.com/learn/certificate/18694401-3a57-4d26-9a03-836413f2ee2f/)
 Comprehensive training in Python, SQL, NumPy, Pandas, Matplotlib, Seaborn and Power BI, focusing on Data Analysis, Data Modelling, and Presentation Skills 
 
 
