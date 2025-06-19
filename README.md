@@ -9,7 +9,7 @@
 
 ## Projects
 ### PowerBi and SQl Project:
-### Atliq Hardware Sales Dataset: Youtube - [Link](https://youtu.be/GlVQtEexktI?si=rtYSIe105Dc8yb-B)
+### Atliq Hardware Sales Dataset: [Youtube_Link](https://youtu.be/GlVQtEexktI?si=rtYSIe105Dc8yb-B)
 
 
  
