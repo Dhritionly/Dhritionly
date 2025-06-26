@@ -60,7 +60,7 @@
 
 
 
-###  PW Skills Full Stack Data Science Pro : [Certifiacte_Link](https://pwskills.com/learn/certificate/18694401-3a57-4d26-9a03-836413f2ee2f/)
+###  PW Skills: Full Stack Data Science Pro : [Certifiacte_Link](https://pwskills.com/learn/certificate/18694401-3a57-4d26-9a03-836413f2ee2f/)
 Comprehensive training in Python, SQL, NumPy, Pandas, Matplotlib, Seaborn and Power BI, focusing on Data Analysis, Data Modelling, and Presentation Skills 
 
 
@@ -73,5 +73,14 @@ Completed Live projects on Data Analysis using Python, SQL, Excel, Power BI
 
 
 ![Screenshot 2025-05-11 020310](https://github.com/user-attachments/assets/b84652d9-9d9b-409e-80e1-5522311db893)
+
+
+
+### PW Skills: Foundations Of Stock Trading: [Certificate Link](https://pwskills.com/learn/certificate/4cdc2d61-8d29-4bff-8dd7-3482090ace42/)
+
+Completed the Foundations of Stock Trading Program, acquiring knowledge in stock market fundamentals and trading principles.
+
+
+![Screenshot 2025-06-24 102401](https://github.com/user-attachments/assets/b335c358-b22b-4137-9485-d0f7407297c6)
 
 
