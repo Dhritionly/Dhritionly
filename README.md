@@ -1,4 +1,3 @@
-
 # Dhritimalya Dutta
 ## Aspiring Analyst
 ### Results-driven analytical professional with expert-level skills in data analysis and Python. I excel at comprehensive Exploratory Data Analysis (EDA) and advanced data cleaning, ensuring high data quality and reducing inconsistencies effectively. My technical proficiency spans Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, and Excel for superior data manipulation, visualization, and insightful analysis, providing a strong basis for areas like fundamental and technical analysis. I am experienced in optimizing data transformation and refining datasets to enhance accuracy and reduce processing errors. Committed to applying my strong analytical and problem-solving acumen to extract valuable insights and drive strategic outcomes in any data-intensive environment.
