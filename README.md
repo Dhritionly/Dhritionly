@@ -82,4 +82,11 @@ Completed the Foundations of Stock Trading Program, acquiring knowledge in stock
 
 ![Screenshot 2025-06-24 102401](https://github.com/user-attachments/assets/b335c358-b22b-4137-9485-d0f7407297c6)
 
+### Achivements 
+
+LeetCode - SQL 50 [Link](https://leetcode.com/u/TXG4W9fqeI/)
+
+
+<img width="1353" height="623" alt="Screenshot 2025-08-18 162320" src="https://github.com/user-attachments/assets/80ae853c-069b-49cc-8cbe-3f535d51f083" />
+
 
