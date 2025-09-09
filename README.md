@@ -6,7 +6,7 @@
 
 
 ## Projects
-### PowerBi and SQl Project:
+### PowerBi and SQl Project:**
 ### Atliq Hardware Sales Dataset: [Youtube_Link](https://youtu.be/GlVQtEexktI?si=rtYSIe105Dc8yb-B)
 
 
